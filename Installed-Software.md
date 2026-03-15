@@ -8,11 +8,11 @@ Re-generate with:
 
 | Name                           | Version                        | Install Method                           |
 | ------------------------------ | ------------------------------ | ---------------------------------------- |
-| awscli                         | 1.44.49                        | `pip install`                            |
+| awscli                         | 1.44.58                        | `pip install`                            |
 | bash                           | 5.2.26-6.el10                  | RPM                                      |
 | bc                             | 1.07.1-23.el10                 | RPM                                      |
 | buildah                        | 1.43.0                         | `go install`                             |
-| conftest                       | 0.66.0                         | `go install`                             |
+| conftest                       | 0.67.0                         | `go install`                             |
 | coreutils-single               | 9.5-6.el10                     | RPM                                      |
 | cosign                         | 2.6.2                          | `go install`                             |
 | crun                           | 1.23.1-1.el10_0                | RPM                                      |
@@ -29,15 +29,15 @@ Re-generate with:
 | microdnf                       | 3.10.1-1.el10                  | RPM                                      |
 | oc                             | 4.21.0                         | Git submodule (Go)                       |
 | openssl                        | 3.5.1-7.el10_1                 | RPM                                      |
-| oras                           | 1.3.0                          | `go install`                             |
+| oras                           | 1.3.1                          | `go install`                             |
 | python3                        | 3.12.12-3.el10_1               | RPM                                      |
 | retry                          | 1.0.0                          | [local](./local-tools/retry)             |
 | rpm                            | 4.19.1.1-20.el10               | RPM                                      |
 | sed                            | 4.9-3.el10                     | RPM                                      |
 | select-oci-auth                | 1.0.0                          | [local](./local-tools/select-oci-auth)   |
 | skopeo                         | 1.20.0-3.el10_1                | RPM                                      |
-| syft                           | 1.42.1                         | `go install`                             |
+| syft                           | 1.42.2                         | `go install`                             |
 | tar                            | 1.35-9.el10_1                  | RPM                                      |
 | tkn                            | 0.44.0                         | `go install`                             |
-| yq                             | 4.52.2                         | `go install`                             |
+| yq                             | 4.52.4                         | `go install`                             |
 | zip                            | 3.0-45.el10                    | RPM                                      |
